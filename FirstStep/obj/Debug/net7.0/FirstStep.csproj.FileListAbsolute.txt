@@ -1,0 +1,14 @@
+D:\SkillBox\C#\projects\FirstStep\FirstStep\bin\Debug\net7.0\FirstStep.exe
+D:\SkillBox\C#\projects\FirstStep\FirstStep\bin\Debug\net7.0\FirstStep.deps.json
+D:\SkillBox\C#\projects\FirstStep\FirstStep\bin\Debug\net7.0\FirstStep.runtimeconfig.json
+D:\SkillBox\C#\projects\FirstStep\FirstStep\bin\Debug\net7.0\FirstStep.dll
+D:\SkillBox\C#\projects\FirstStep\FirstStep\bin\Debug\net7.0\FirstStep.pdb
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.GeneratedMSBuildEditorConfig.editorconfig
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.AssemblyInfoInputs.cache
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.AssemblyInfo.cs
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.csproj.CoreCompileInputs.cache
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.dll
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\refint\FirstStep.dll
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.pdb
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\FirstStep.genruntimeconfig.cache
+D:\SkillBox\C#\projects\FirstStep\FirstStep\obj\Debug\net7.0\ref\FirstStep.dll
