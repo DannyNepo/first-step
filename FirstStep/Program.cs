@@ -5,11 +5,11 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world");
-            Console.ReadKey();
+            Console.ReadLine();
 
-            Console.WriteLine("Helo, ");
-            Console.WriteLine("world ");
-            Console.WriteLine("!!!");
+            Console.Write("Helo, ");
+            Console.Write("world ");
+            Console.Write("!!!");
             Console.ReadKey();
         }
     }
